@@ -1,10 +1,10 @@
 === zahls.ch Credit Cards, PostFinance and TWINT for WooCommerce  ===
 Contributors: ivanlouis
 Donate link: https://billing.zahls.ch/de/vpos
-Tags: twint, kreditkarten, postfinance, postfinance card, postcard, zahls, gateway, payrexx, payrexx direct, wir, giropay, concardis, paymill, braintree, stripe, ogone, ingenico, viveum, reka, datatrans, six, saferpay, onepage, shop, payment link, invoices, virtual terminal, vpos, payrexx swiss collecting, post e-finance, payment, e-commerce 
+Tags: twint, kreditkarten, postfinance, payrexx, stripe
 Requires at least: 4.6
-Tested up to: 6.6
-Stable tag: 2.0.4
+Tested up to: 6.8
+Stable tag: 2.0.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -172,8 +172,14 @@ The zahls.ch support team will be happy to assist you with the installation.
 = 2.0.4 =
 * Major update, make sure to create a backup
 
+= 2.0.5 =
+* Major update, make sure to create a backup
+
 
 == Changelog ==
+
+= 2.0.5 =
+* Improved API Settings
 
 = 2.0.4 =
 * Improved information sent to zahls.ch
