@@ -5,7 +5,7 @@
  * Author: siebenberge gmbh
  * Author URI: https://www.siebenberge.com
  * Text Domain: zahls-ch-payment-gateway
- * Version: 2.0.5
+ * Version: 2.0.6
  * Requires at least: 4.6
  * Tested up to: 6.8
  * WC requires at least: 8.0
