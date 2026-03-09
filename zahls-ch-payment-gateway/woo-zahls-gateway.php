@@ -5,16 +5,16 @@
  * Author: siebenberge gmbh
  * Author URI: https://www.siebenberge.com
  * Text Domain: zahls-ch-payment-gateway
- * Version: 2.0.6
+ * Version: 2.0.7
  * Requires at least: 4.6
- * Tested up to: 6.8
+ * Tested up to: 7.0
  * WC requires at least: 8.0
- * WC tested up to: 9.6
+ * WC tested up to: 10.5
  */
 
 if (!in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_option('active_plugins')))) return;
 
-define('ZAHLS_VERSION', '2.0.5');
+define('ZAHLS_VERSION', '2.0.7');
 define('ZAHLS_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('ZAHLS_PLUGIN_PATH', plugin_dir_path(__FILE__));
 

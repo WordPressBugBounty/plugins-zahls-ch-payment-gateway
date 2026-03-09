@@ -3,8 +3,8 @@ Contributors: ivanlouis
 Donate link: https://billing.zahls.ch/de/vpos
 Tags: twint, kreditkarten, postfinance, payrexx, stripe
 Requires at least: 4.6
-Tested up to: 6.8
-Stable tag: 2.0.6
+Tested up to: 7.0
+Stable tag: 2.0.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
